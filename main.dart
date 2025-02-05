@@ -33,7 +33,7 @@ class AddEmployeeScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.white, // Light background color
+      backgroundColor: Colors.white,
       appBar: AppBar(
         title: Text("Add Employee"),
         backgroundColor: Colors.white,
